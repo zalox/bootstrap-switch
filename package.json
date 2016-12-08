@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-switch",
+  "version": "1.3.0",
+  "description": "Fork of nostalgiaz/bootstrap-switch stuck at v1.3.0",
+  "main": "static/js/bootstrapSwitch.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalox/bootstrap-switch.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "1.3"
+  ],
+  "author": "Mattia Larentis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zalox/bootstrap-switch/issues"
+  },
+  "homepage": "https://github.com/zalox/bootstrap-switch#readme"
+}
